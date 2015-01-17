@@ -1,0 +1,23 @@
+{
+  "name": "malSite",
+  "description": "Mallory official website",
+  "private": true,
+  "author": "JollyGoat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpetersr/malHack"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "express-session": "1.5.1",
+    "ejs": "^1.0.0",
+    "mongoose": "3.8.12",
+    "serve-index": "1.1.4",
+    "nodemon": "1.2.1",
+    "directory": "latest",
+    "node-mysql": "*"
+  },
+  "devDependencies": {
+    "express": "~3.4.7"
+  }
+}
